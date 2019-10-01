@@ -1,0 +1,19 @@
+{
+  "name": "giphy-search-api-async-await-solution",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Defy1x/giphy-search-api-async-await-solution.git"
+  },
+  "author": "Defy1x <mcdonald.cas@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Defy1x/giphy-search-api-async-await-solution/issues"
+  },
+  "homepage": "https://github.com/Defy1x/giphy-search-api-async-await-solution#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": ""
+}
